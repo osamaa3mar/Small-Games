@@ -1,0 +1,13 @@
+C:\Users\Someone\source\repos\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\Someone\source\repos\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\Someone\source\repos\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.ResultForm.resources
+C:\Users\Someone\source\repos\TicTacToeGame\obj\Debug\TicTacToeGame.LoginScreen.resources
