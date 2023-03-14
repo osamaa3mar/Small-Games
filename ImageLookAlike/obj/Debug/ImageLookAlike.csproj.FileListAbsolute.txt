@@ -1,0 +1,11 @@
+C:\Users\Someone\source\repos\ImageLookAlike\bin\Debug\ImageLookAlike.exe.config
+C:\Users\Someone\source\repos\ImageLookAlike\bin\Debug\ImageLookAlike.exe
+C:\Users\Someone\source\repos\ImageLookAlike\bin\Debug\ImageLookAlike.pdb
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.csproj.AssemblyReference.cache
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.csproj.SuggestedBindingRedirects.cache
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.Form1.resources
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.Properties.Resources.resources
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.csproj.GenerateResource.cache
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.csproj.CoreCompileInputs.cache
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.exe
+C:\Users\Someone\source\repos\ImageLookAlike\obj\Debug\ImageLookAlike.pdb
